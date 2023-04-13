@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+}
+
+a {
+    color: white;
+}
+
+
+p {
+    font-size: 24px;
+    margin: 2em auto;
+    line-height: 1.1;
+    text-align: left;
+    max-width: 900px;
+    font-family: Arial;
+    font-weight: bold;
+    text-shadow: 4px 4px 5px rgb(147, 5, 160); 
+}
+
+
+footer {
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    color: white;
+}
